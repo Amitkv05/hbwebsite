@@ -1,0 +1,2 @@
+# Tour and Travel 
+ It is a web-based application. The purpose of this project is to provide a convenient way for a customer to book hotels, flight, train and bus for tour purposes. The objective of this project is to develop a system that automates the processes and activities of a travel agency. In this project, we have developed a tour and travels management system to provide a search platform to find their tour places according to their choices..
